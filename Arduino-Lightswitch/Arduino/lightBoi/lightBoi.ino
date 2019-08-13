@@ -17,9 +17,9 @@ void loop() {
 
   serialData = Serial.readString();
   if (serialData == "ON") {
-    digitalWrite(11, HIGH); // powers on relay
+    digitalWrite(2, HIGH); // powers on relay
   } else if (serialData == "OFF") {
-    digitalWrite(11, LOW); // powers off relay
+    digitalWrite(2, LOW); // powers off relay
   }
 
   delay(10); // avoid overloading the arduino with unnecessary infinite loop
