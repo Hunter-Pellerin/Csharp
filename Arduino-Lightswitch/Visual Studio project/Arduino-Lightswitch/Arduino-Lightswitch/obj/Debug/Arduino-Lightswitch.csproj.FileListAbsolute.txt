@@ -1,0 +1,10 @@
+C:\Users\huntr\source\repos\Arduino-Lightswitch\Arduino-Lightswitch\bin\Debug\Arduino-Lightswitch.exe.config
+C:\Users\huntr\source\repos\Arduino-Lightswitch\Arduino-Lightswitch\bin\Debug\Arduino-Lightswitch.exe
+C:\Users\huntr\source\repos\Arduino-Lightswitch\Arduino-Lightswitch\bin\Debug\Arduino-Lightswitch.pdb
+C:\Users\huntr\source\repos\Arduino-Lightswitch\Arduino-Lightswitch\obj\Debug\Arduino-Lightswitch.csprojAssemblyReference.cache
+C:\Users\huntr\source\repos\Arduino-Lightswitch\Arduino-Lightswitch\obj\Debug\Arduino_Lightswitch.Form1.resources
+C:\Users\huntr\source\repos\Arduino-Lightswitch\Arduino-Lightswitch\obj\Debug\Arduino_Lightswitch.Properties.Resources.resources
+C:\Users\huntr\source\repos\Arduino-Lightswitch\Arduino-Lightswitch\obj\Debug\Arduino-Lightswitch.csproj.GenerateResource.cache
+C:\Users\huntr\source\repos\Arduino-Lightswitch\Arduino-Lightswitch\obj\Debug\Arduino-Lightswitch.csproj.CoreCompileInputs.cache
+C:\Users\huntr\source\repos\Arduino-Lightswitch\Arduino-Lightswitch\obj\Debug\Arduino-Lightswitch.exe
+C:\Users\huntr\source\repos\Arduino-Lightswitch\Arduino-Lightswitch\obj\Debug\Arduino-Lightswitch.pdb
